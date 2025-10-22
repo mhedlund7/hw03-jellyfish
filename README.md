@@ -28,7 +28,7 @@ I made the organs by first drawing a horshoe shaped curve and then sweeping and 
 
 ### Tentacles
 
-Finally, for the tentacles I scatter points along the bottom of the bell and then extend each of those points into a line. Like the arms, the tops of the tentacles are pinned to follow the bells animation, and then I apply a hair siimulation to animate them.
+Finally, for the tentacles I scatter points along the bottom of the bell and then extend each of those points into a line. Like the arms, the tops of the tentacles are pinned to follow the bells animation, and then I apply a hair simulation to animate them.
 
 ![](assets/tentacles.png)
 
