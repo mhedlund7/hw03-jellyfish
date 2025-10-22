@@ -1,5 +1,9 @@
 # Procedural Jellyfish
 
+
+https://github.com/user-attachments/assets/cacf100d-fd97-4f8f-baa6-098fa4e11a65
+
+
 In this project I create and animate a procedural jellyfish in Houdini. The jellyfish has five main parts: the bell, arms, veins, organs, and tentacles.
 
 ### Bell
